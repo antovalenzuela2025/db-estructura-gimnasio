@@ -1,3 +1,4 @@
+
 CREATE TABLE tipo_membresia (
     tipo_id SERIAL PRIMARY KEY,
     tpo_descrip VARCHAR
